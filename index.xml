@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="song.css"?>
+
+<SETLIST>
+  <SONG>
+    <TITLE>Upside Down</TITLE>
+    <ARTIST>Jeremy Zucker</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>2016</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Mean It</TITLE>
+    <ARTIST>Lauv, LANY</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>2019</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Love You Anymore</TITLE>
+    <ARTIST>Michael  Buble</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>2018</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Promise</TITLE>
+    <ARTIST>Romeo Santos, Usher</ARTIST>
+    <GENRE>Contemporary R and B</GENRE>
+    <YEAR>2011</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Boo'd Up</TITLE>
+    <ARTIST>Ella Mai</ARTIST>
+    <GENRE>R and B/Soul</GENRE>
+    <YEAR>2017</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Ready To Go</TITLE>
+    <ARTIST>Panic! At The Disco</ARTIST>
+    <GENRE>Electropop</GENRE>
+    <YEAR>2011</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Fireflies</TITLE>
+    <ARTIST>Owl City</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>2009</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Burnin' Up</TITLE>
+    <ARTIST>Jonas Brothers</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>2008</YEAR>
+  </SONG>
+  _____________________________________________
+
+  <SONG>
+    <TITLE>Semi-Charmed Life</TITLE>
+    <ARTIST>Third Eye Blind</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>1997</YEAR>
+  </SONG>
+  _____________________________________________
+  
+  <SONG>
+    <TITLE>Rock Bottom</TITLE>
+    <ARTIST>Hailee Steinfield</ARTIST>
+    <GENRE>Pop</GENRE>
+    <YEAR>2015</YEAR>
+  </SONG>
+</SETLIST>

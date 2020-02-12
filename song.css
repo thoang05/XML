@@ -1,0 +1,23 @@
+SETLIST {
+  background: url('images/setlist-background.jpg') no-repeat top center;
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 5% 0 5% 10%;
+}
+
+SONG {
+  display: block;
+  padding: 7px 0 5px 0;
+}
+
+TITLE {
+  display: block;
+  font-size: 180%;
+  font-weight: 500;
+}
+
+ARTIST {
+  display: block;
+  font-size: 120%;
+}
+
